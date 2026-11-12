@@ -1,0 +1,16 @@
+{
+  "notes": {
+    "kind": "note",
+    "path": "~/notes",
+    "glob": "**/*.md"
+  },
+  "code": {
+    "kind": "code",
+    "path": "~/projects/my-app/src",
+    "glob": "**/*.py"
+  },
+  "vocab": {
+    "kind": "vocab",
+    "path": "~/study/words.md"
+  }
+}
